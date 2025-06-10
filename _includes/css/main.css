@@ -483,12 +483,12 @@ footer .footer-below {
     -webkit-transform: translateZ(0);
 }
 
-/* 프로필 사진 스타일 */
+/* 프로필 사진 강제 스타일 */
 .profile-pic {
-  width: 100px;
-  height: 100px;
-  border-radius: 50%;
-  object-fit: cover;
-  display: block;
-  margin: 0 auto;
+  width: 20px !important;
+  height: 20px !important;
+  border-radius: 50% !important;
+  object-fit: cover !important;
+  display: block !important;
+  margin: 0 auto !important;
 }
