@@ -485,8 +485,8 @@ footer .footer-below {
 
 /* 프로필 사진 강제 스타일 */
 .profile-pic {
-  width: 80px !important;
-  height: 80px !important;
+  width: 120px !important;
+  height: 120px !important;
   border-radius: 50% !important;
   object-fit: cover !important;
   display: block !important;
