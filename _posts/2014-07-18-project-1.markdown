@@ -1,11 +1,16 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
+date: 2024-06-15
+img: busan.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: June 2024
+created by: 전세영
+category: game project
+description: 영화 "부산행"을 모티브로 한 2D 생존 게임 프로젝트입니다.  
+  플레이어는 무작위로 '마동석' 혹은 '시민' 역할을 부여받고, 좀비로부터 도망쳐 생존하거나 좀비를 제압하는 것이 목표입니다.  
+  게임 내에서는 랜덤 함수를 활용해 좀비가 비정형적으로 움직이며,  
+  마동석 캐릭터는 일정 시간마다 공격이 가능해 좀비를 제압할 수 있습니다.  
+  본 프로젝트는 C언어로 제작되었으며, 콘솔 기반의 인터페이스 위에서 캐릭터 이동, 충돌 판정, 랜덤 이벤트 구현 등을 수행하였습니다.  
+  간단한 상태 기반 로직과 난수 생성기를 조합해 좀비 AI를 구현하였으며, 키보드 입력 처리와 타이머를 활용한 스킬 발동 시스템도 함께 설계하였습니다.
 ---
