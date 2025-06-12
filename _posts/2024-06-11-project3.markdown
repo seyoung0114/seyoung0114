@@ -5,7 +5,7 @@ date: 2025-06-11
 img: project3.png
 alt: image-alt
 project-date: June 2025
-Created by: 전세
+Created by: 전세영
 category: game project
 description: 앱인벤터(App Inventor)를 활용한 식물 성장 시뮬레이션 게임 프로젝트입니다.  
   플레이어는 매일 광합성, 물주기, ‘다음날’ 버튼을 통해 식물을 성장시키며,  
