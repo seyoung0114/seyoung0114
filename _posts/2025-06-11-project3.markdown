@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 3
+order: 3
 date: 2025-06-11
 img: project3.png
 alt: image-alt
