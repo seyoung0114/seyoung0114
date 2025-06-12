@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 1
+order: 1
 date: 2024-06-15
 img: busan.png
 alt: image-alt
