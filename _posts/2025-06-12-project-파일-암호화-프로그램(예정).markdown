@@ -6,7 +6,8 @@ img: safe.png
 alt: image-alt
 project-date: Going to do it
 category: Security/System Programming
-description: 본 프로젝트는 텍스트 파일을 암호화/복호화하는 간단한 보안 유틸리티 프로그램을 C 또는 Python으로 구현할 예정입니다. <br>
+description: >
+             본 프로젝트는 텍스트 파일을 암호화/복호화하는 간단한 보안 유틸리티 프로그램을 C 또는 Python으로 구현할 예정입니다. <br>
              사용자는 메뉴를 통해 평문 파일을 선택하고, 단순한 XOR 또는 시저(Caesar) 알고리즘을 적용해 암호화하거나 복호화할 수 있습니다. <br>
              입력은 콘솔 기반으로 이루어지며, 결과는 새 파일로 저장됩니다. <br>
              주요 목표는 문자열 처리, 파일 입출력, 조건 분기, 반목문 구조를 기반으로, 기초적인 보안 로직과 사용자 입력 흐름을 명확히 구성하는 것입니다. <br>
