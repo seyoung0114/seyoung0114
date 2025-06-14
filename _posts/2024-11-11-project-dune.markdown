@@ -8,7 +8,8 @@ alt: image-alt
 project-date: November 2024
 Created by: 전세영
 category: game project
-description: SF 영화 듄(Dune)과 1992년 고전 RTS 게임 Dune II를 기반으로 제작한 실시간 전략 시뮬레이션 게임입니다.  <br>
+description: >
+  SF 영화 듄(Dune)과 1992년 고전 RTS 게임 Dune II를 기반으로 제작한 실시간 전략 시뮬레이션 게임입니다.  <br>
   플레이어는 사막 행성 '아라키스'에서 자원을 채굴하고 건물을 건설하며 유닛을 생산해 적 세력을 무너뜨리는 것이 목표입니다.  <br>
   본 프로젝트는 C언어로 콘솔 환경에서 구현되었으며, Sleep(), _kbhit(), _getch() 등을 활용해 실시간 키보드 입력과 커서 이동, 캐릭터 제어를 처리하였습니다. <br> 
   
