@@ -3,9 +3,9 @@
 
 
 ### Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
-이 프로젝트는 해당 테마를 기반으로 제작한 홈페이지 입니다.
-실제 웹사이트: https://seyoung0114.github.io/seyoung0114/
-깃허브 사이트 : https://github.com/seyoung0114/seyoung0114
+### 이 프로젝트는 해당 테마를 기반으로 제작한 홈페이지 입니다.<br>
+### 실제 웹사이트: https://seyoung0114.github.io/seyoung0114/ <br> 
+### 깃허브 사이트 : https://github.com/seyoung0114/seyoung0114 <br> 
 ---
 
 ### 주요 기능 및 구성
