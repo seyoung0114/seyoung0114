@@ -1,6 +1,6 @@
 
 ### Freelancer Jekyll theme  
-=========================
+
 
 ### Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
 이 프로젝트는 해당 테마를 기반으로 제작한 홈페이지 입니다.
