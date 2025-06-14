@@ -8,7 +8,8 @@ alt: image-alt
 project-date: June 2025
 Created by: 전세영
 category: game project
-description: 앱인벤터(App Inventor)를 활용한 식물 성장 시뮬레이션 게임 프로젝트입니다.  <br>
+description: >
+   앱인벤터(App Inventor)를 활용한 식물 성장 시뮬레이션 게임 프로젝트입니다.  <br>
   플레이어는 매일 광합성, 물주기, ‘다음날’ 버튼을 통해 식물을 성장시키며,  
   날씨는 매일 무작위로 ‘맑음’, ‘비’, ‘흐림’ 중 하나로 결정됩니다.  <br>
   광합성은 날씨에 따라 성공 여부가 달라지며, 특히 비 오는 날에는 랜덤으로 성공/실패가 결정되어 전략적 선택이 필요합니다.  <br>
